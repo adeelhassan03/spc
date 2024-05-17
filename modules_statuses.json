@@ -1,0 +1,10 @@
+{
+    "ThemeBusiness": true,
+    "Article": true,
+    "Service": true,
+    "Booking": false,
+    "Home": true,
+    "Catalog": true,
+    "Menu": true,
+    "Faq": true
+}
