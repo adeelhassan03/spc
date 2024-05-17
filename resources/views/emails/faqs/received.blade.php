@@ -9,7 +9,7 @@
 - **Last Name:** {{ $faqData['l-name'] ?? 'N/A' }}
 - **Email:** {{ $faqData['email'] ?? 'N/A' }}
 - **Company Name:** {{ $faqData['company_name'] ?? 'N/A' }}
-- **Question:** {{ $faqData['question'] ?? 'N/A' }}
+- **Question:** {{ $faqData['question'] ?? 'N/A' }} 
 
 ---
 
